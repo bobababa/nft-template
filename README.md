@@ -15,4 +15,4 @@ NFT数字藏品交易平台，数字藏品系统源码
 ![市场详情](https://github.com/bobababa/nft-template/assets/45159200/ca418862-adda-4284-baeb-daa2d1b37a96)
 ![发现](https://github.com/bobababa/nft-template/assets/45159200/328981a4-b512-4589-a793-815745ecc624)
 ![我的](https://github.com/bobababa/nft-template/assets/45159200/82e112e8-f0be-484a-971b-bd7fbf1767c0)
-![后台-商品页](https://github.com/bobababa/nft-template/assets/45159200/869615ed-f5dd-4ac8-b58e-a3af17844114)
+![后台-商品页](https://github.com/bobababa/nft-template/assets/45159200/1e7b9edd-884a-4242-82f8-cac1609161a6)
